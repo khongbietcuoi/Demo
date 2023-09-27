@@ -17,6 +17,9 @@ public class Demo27_9 {
         // TODO code application logic here
         System.out.println("Xin chao");
         System.out.println("HIHIHII");
+        for (String arg : args) {
+            System.out.println("ALô");
+        }
     }
     
 }
